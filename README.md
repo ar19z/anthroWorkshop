@@ -1,4 +1,5 @@
 AnthroWorkshop: Digital Text Analysis for Oral History
+https://docs.google.com/presentation/d/1bJ6g8FS1alLTX7EXaUnMQLZuEQz3Kw7bol-SrmLPF8M/edit?usp=sharing
 
 This repository provides a five-step pipeline for analyzing Veteran History Project (VHP) transcripts, following the methodology of Brown and Shackel (2022).
 
