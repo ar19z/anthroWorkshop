@@ -2,6 +2,15 @@ AnthroWorkshop: Digital Text Analysis for Oral History
 
 This repository provides a five-step pipeline for analyzing Veteran History Project (VHP) transcripts, following the methodology of Brown and Shackel (2022).
 
+## Download PyCharm
+Installation of PyCharm Academic
+For students and researchers, the professional version of PyCharm is available for free through JetBrains' Academic License:
+
+Visit the JetBrains Free Educational Licenses page.
+Apply using your university (.edu) email address.
+Once approved, download and install PyCharm Professional.
+Log in to your JetBrains account within the IDE to activate your license.
+
 ## Quick Start
 1. **Setup:** Ensure you have Python 3.9+ installed.
 2. **Environment:** Create a virtual environment and run:
