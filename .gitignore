@@ -1,0 +1,17 @@
+# Ignore the Python virtual environment
+.venv/
+venv/
+env/
+
+# Ignore Python cache files (makes things messy)
+__pycache__/
+*.pyc
+
+# Ignore those heavy audio files (over 100MB)
+data/unzipped_audio/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore PyCharm configuration
+.idea/

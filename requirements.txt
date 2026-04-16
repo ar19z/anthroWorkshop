@@ -1,0 +1,8 @@
+openai-whisper
+pandas
+nltk
+textblob
+matplotlib
+tqdm
+gensim
+pyLDAvis
